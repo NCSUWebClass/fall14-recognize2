@@ -1,0 +1,4 @@
+DELETE FROM users;
+ALTER TABLE users AUTO_INCREMENT = 0;
+
+DELETE FROM options;
